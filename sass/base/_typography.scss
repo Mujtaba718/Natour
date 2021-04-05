@@ -54,3 +54,10 @@ body {
         margin-bottom: 3rem;
     }
 }
+
+.features {
+    &__heading {
+        text-transform: uppercase;
+        font-size: 1.7rem;
+    }
+}
